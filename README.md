@@ -1,2 +1,2 @@
-# Solutions-of-SPOJ-Problem
+# Solutions-of-SPOJ-Problems
 Solutions of SPOJ (Sphere Online Judge Problems)
